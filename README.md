@@ -1,1 +1,1 @@
-# tema1poo
+#Developed a Rust-based command-line interpreter for Linux terminal.
